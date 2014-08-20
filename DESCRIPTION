@@ -1,0 +1,13 @@
+Package: Rsquared
+Version: 0.1-0
+Depends:
+    popmoments,
+    testthat
+Type: Package
+Title: R squared statistics from fitted models
+Author: Steve Walker <steve.walker@utoronto.ca>
+Maintainer: Steve Walker <steve.walker@utoronto.ca>
+Description: R squared statistics from fitted models
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyLoad: yes
